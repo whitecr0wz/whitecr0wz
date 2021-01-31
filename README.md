@@ -1,7 +1,7 @@
 #### Interests
 
-+ Web Pentestingg.
-+ Network Pentesting.
++ Web Pentesting.
++ Internal Pentesting.
 + Wireless Attacks.
 + Active Directory.
 + Backdooring.
